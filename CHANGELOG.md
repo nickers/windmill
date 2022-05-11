@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.6.2](https://github.com/windmill-labs/windmill/compare/v1.6.1...v1.6.2) (2022-05-11)
+
+
+### Bug Fixes
+
+* better error message when saving script ([02c8bea](https://github.com/windmill-labs/windmill/commit/02c8bea0840e492c31ccb8ddd1e5ae9676a534b1))
+
 ### [1.6.1](https://github.com/windmill-labs/windmill/compare/v1.6.0...v1.6.1) (2022-05-10)
 
 
